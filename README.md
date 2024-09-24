@@ -4,7 +4,7 @@
 **Clone the repository (or download the project)**:
 
    ```bash   
-   git clone https://github.com/israeltn/Supervised-Learning-Algorithms-.git
+   git clone https://github.com/israeltn/Supervised-Learning-Algorithms.git
    ```
    ```bash   
    cd Supervised-Learning-Algorithms 
