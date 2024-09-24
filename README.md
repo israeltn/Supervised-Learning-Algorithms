@@ -1,8 +1,5 @@
 # Supervised-Learning-Algorithms
-  ```bash
-   pip install -U scikit-learn 
-   ```
-
+ 
 
 **Clone the repository (or download the project)**:
 
